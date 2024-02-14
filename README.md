@@ -1,2 +1,1 @@
-# bookbot
-bootdev project
+# First Boot.Dev Project
